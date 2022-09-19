@@ -123,7 +123,7 @@
           "barraimg_bottom": true,
           "bgimg": "#105484",
           "imgpc": "shopify:\/\/shop_images\/OFERTAS_ARRASADORAS_2.png",
-          "imgpc_max_width": 70,
+          "imgpc_max_width": 60,
           "imgmob": "shopify:\/\/shop_images\/OFERTAS_ARRASADORAS_2.png",
           "imgmob_max_width": 100,
           "linkimg": "https:\/\/emporiotatico.myshopify.com\/collections\/all",
@@ -397,7 +397,7 @@
         "type": "announcement-bar",
         "settings": {
           "show_announcement": true,
-          "background1": "#105484",
+          "background1": "#2679b3",
           "background2": "#105484",
           "text_color": "#ffffff",
           "mostraricone": true,
