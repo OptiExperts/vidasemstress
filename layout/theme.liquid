@@ -347,5 +347,12 @@
 {% capture yampi_snippet_content %}{% include 'YampiSnippet' %}{% endcapture %} {% unless yampi_snippet_content contains 'Liquid error' %} {% include 'YampiSnippet' %} {% endunless %}
 <!-- Não remova. Checkout Yampi. --> 
       {% include '__footerhash' %}
-  </body>
+  <script>
+(function () {
+    var s = document.createElement('script');
+    s.src = 'https://cdn.willdesk.com/wdc/willdesk.min.js?v='
+    s.src += new Date().getTime();
+    document.body.appendChild(s);
+  })();
+</script></body>
 </html>
