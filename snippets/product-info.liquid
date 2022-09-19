@@ -685,7 +685,7 @@
               <div class="product-form__info-content" style="display: block;">
                 
                 
-                <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+                <script type="lazyload2" data-src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
                 <div id='myform2' class="qty-align" method='POST' action='#'>
                   <input type='button' value='-' class='qtyminus' field='quantity' />
                   <input type='text' name='quantity' value='1' class='qty' />
@@ -702,7 +702,7 @@
       </div>
     {%- endform -%}
 
-<script>
+<script type="lazyload2">
 redirectTime = "500";
 redirectURL = "/cart";
 function timedRedirect() {
@@ -710,7 +710,7 @@ function timedRedirect() {
 }
 </script>
 
-<script>
+<script type="lazyload2">
 jQuery(window).load(function () {
       $(".loader").fadeOut("slow"); //retire o delay quando for copiar!
     $("#tudo_page").toggle("fast");
@@ -779,7 +779,7 @@ jQuery(window).load(function () {
   ------------------------------------------------------------------------------
   {% endcomment %}
   
-    <script>
+    <script type="lazyload2">
     jQuery(document).ready(function(){
     // This button will increment the value
     $('.qtyplus').click(function(e){
