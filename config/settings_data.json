@@ -1,1 +1,1543 @@
-{"current":{"heading_color":"#105484","text_color":"#3a2a2f","accent_color":"#ec8100","link_color":"#105484","border_color":"#cacaca","background":"#f7f7f7","secondary_background":"#ffffff","error_color":"#f71b1b","success_color":"#00d864","primary_button_background":"#00cb00","primary_button_text_color":"#ffffff","secondary_button_background":"#202020","secondary_button_text_color":"#f7f7f7","footer_background":"#105484","footer_text_color":"#ffffff","header_background":"#2679b3","header_text_color":"#ffffff","header_light_text_color":"#f7f7f7","header_accent_color":"#ec8100","product_on_sale_accent":"#2679b3","product_cor_do_preco":"#228b22","product_cor_do_preco_riscado":"#737b97","product_cor_dos_titles":"#0076ff","product_in_stock_color":"#00d864","product_low_stock_color":"#ee0000","product_sold_out_color":"#d1d1d4","product_label_1_background":"#ff6128","product_label_2_background":"#228b22","product_star_color":"#ffb647","ali_hunter_enable":true,"botao_direito_enable":false,"atalho_f12_enable":false,"selecionar_conteudo_enable":false,"addzap":true,"numberzap":"5551995715498","titlezap":"Olá, meu nome é Maiara 😊\n<span>\nEstá pronto para receber o <b>melhor atendimento?<\/b>\n<\/span>","colorzap":"#05c55e","chatzap":"Estou online, como posso te ajudar?","digizap":"Digite sua mensagem...","base_text_font_size":17,"heading_font":"rubik_n7","text_font":"rubik_n4","underline_links":true,"animation_image_zoom":false,"search_mode":"product","mostrar_fretegratis1":true,"cordabarra":"#008000","cordotexto":"#ffffff","mostrar_estrelas":false,"corstars":"#ffce00","show_vendor":false,"show_secondary_image":true,"show_discount":true,"discount_mode":"saving","product_price_position":"after_title","product_image_size":"natural","show_color_swatch":false,"show_inventory_quantity":false,"low_inventory_threshold":0,"show_reviews_badge":true,"cart_type":"page","cart_empty_button_link":"shopify:\/\/collections\/all","cart_show_free_shipping_threshold":false,"cart_free_shipping_threshold":"50","social_facebook":"","social_twitter":"","social_pinterest":"","social_instagram":"","social_vimeo":"","social_tumblr":"","social_youtube":"","social_linkedin":"","social_snapchat":"","social_fancy":"","favicon":"shopify:\/\/shop_images\/Loja_vida_sem_stress.png","checkout_header_image":"","checkout_logo_image":"shopify:\/\/shop_images\/logo210x_40x_6b8e4909-3fbb-4178-8775-39900114df23.png","checkout_logo_position":"center","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#ffffff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#f7f4f2","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#3a2a2f","checkout_button_color":"#f6cc3f","checkout_error_color":"#f71b1b","cordefundo":"#702dfa","header_cordotexto":"#96a3da","header_corsubheader":"#1d2a6c","sections":{"header":{"type":"header","blocks":{"7000eb54-1dfe-42a3-9fb7-577d915b94cb":{"type":"mega_menu","disabled":true,"settings":{"menu_item":"","image_1_heading":"Your image","image_1_text":"Tell your story","image_1_link":"","image_2_heading":"Your image","image_2_text":"Tell your story","image_2_link":""}}},"block_order":["7000eb54-1dfe-42a3-9fb7-577d915b94cb"],"settings":{"enable_sticky_header":false,"rastreiopage":"rastrear-pedido","logo":"shopify:\/\/shop_images\/Logotipo-600x300-Alta-Resolucao.png","logo_max_width":190,"mobile_logo_max_width":125,"barraimg_top":false,"barraimg_bottom":true,"bgimg":"#105484","imgpc":"shopify:\/\/shop_images\/OFERTAS_ARRASADORAS_2.png","imgpc_max_width":70,"imgmob":"shopify:\/\/shop_images\/OFERTAS_ARRASADORAS_2.png","imgmob_max_width":100,"linkimg":"https:\/\/emporiotatico.myshopify.com\/collections\/all","mostrar_barra":true,"background1":"#00cb00","background2":"#2f00fc","background3":"#2679b3","background4":"#ec8100","show_locale_selector":false,"show_currency_selector":false,"navigation_menu":"","desktop_navigation_layout":"inline","desktop_navigation_open_trigger":"hover","show_navigation_social_media":false,"navigation_phone_number":"(51) 99571-5498","navigation_email":"contato@vidasemstress.com.br","show_condensed_search":false,"show_search_filter":false,"search_menu":"","show_search_menu_title":true}},"footer":{"type":"footer","blocks":{"c9a6c378-573f-4c54-9fc6-5ca6e279f3f2":{"type":"text","settings":{"title":"CANAIS DE ATENDIMENTO","content":"<p><strong>Estamos prontos para te atender<\/strong><\/p><p><strong>E-mail: <\/strong>contato@vidasemstress.com.br<br\/><strong>WhatsApp:<\/strong> (51) 99571-5498<\/p><p><strong>Endereço: <\/strong>Rua das oliveiras, n° 338. Bairro Bom Princípio - Gravataí\/RS. CEP: 94070-440.<\/p>"}},"footer-1":{"type":"links","settings":{"menu":"footer"}},"57463976-9637-4218-93e5-940cab008379":{"type":"links","settings":{"menu":""}},"23b7e603-1746-4ba2-b8e6-5856acdfd7a5":{"type":"newsletter","settings":{"title":"RECEBA PROMOÇÕES ÚNICAS AQUI!","subheading":"<p>Junte-se ao grupo de pessoas que recebe as <strong>melhores promoções <\/strong>direto no e-mail!<\/p><p> <\/p><p>Cadastre seu melhor e-mail aqui.<\/p>"}}},"block_order":["c9a6c378-573f-4c54-9fc6-5ca6e279f3f2","footer-1","57463976-9637-4218-93e5-940cab008379","23b7e603-1746-4ba2-b8e6-5856acdfd7a5"],"settings":{"mostrar_mensagemdeaviso":true,"textdordp":"<p><strong>Você está no site oficial VIDA SEM STRESS, confiável e seguro<\/strong>. Evite comprar produtos mais baratos ou de outras lojas pouco confiáveis, pois <span style=\"text-decoration:underline\">você pode estar sendo enganado(a) por um golpista<\/span>. Caso você compre os mesmos produtos em outras lojas,<strong> não nos responsabilizamos por quaisquer problemas. <\/strong>Qualquer dúvida entre em contato a qualquer momento.<\/p>","mostrar_logotipo":true,"logo":"shopify:\/\/shop_images\/Logotipo-600x300-Alta-Resolucao.png","mostrar_selo1":true,"selo1":"https:\/\/www.sslshopper.com\/ssl-checker.html#hostname=vidasemstress.com.br","mostrar_selo2":true,"selo2":"","mostrar_selo3":true,"selo3":"https:\/\/transparencyreport.google.com\/safe-browsing\/search?url=vidasemstress.com.br","mostrar_barra":true,"background1":"#00cb00","background2":"#2f00fc","background3":"#2679b3","background4":"#ec8100","show_social_media":false,"show_payment_icons":true,"show_locale_selector":false,"show_currency_selector":false,"show_cookie_bar":true,"text":"<p>Utilizamos cookies para melhorar nosso site e sua experiência de compra. Ao continuar navegando em nosso site,<strong>você está de acordo conforme nossa política de utilização de cookies.<\/strong><\/p>","accept_button":"ENTENDI E FECHAR"}},"slideshow":{"type":"slideshow","blocks":{"bbea030d-de91-4721-9ea1-9660f647bbd7":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Banner-vida-sem-stress-frete-gratis-entrega-pelos-correios-com-rastreamento-mobile_a49c9e2d-9451-44aa-95e0-19e8e477260c.jpg","show_overlay":false,"overlay_opacity":0,"text_color":"#ffffff","title":"","content":"","content_position":"middle_center","button_background":"#ffffff","button_text_color":"#000000","button_text":"","link":"shopify:\/\/collections"}}},"block_order":["bbea030d-de91-4721-9ea1-9660f647bbd7"],"settings":{"edge_to_edge":false,"section_size":"preserve_ratio","carousel_effect":"slide","autoplay":true,"cycle_speed":5}},"collection-list":{"type":"collection-list","disabled":true,"blocks":{"collection-0":{"type":"collection","settings":{"collection":""}},"collection-1":{"type":"collection","settings":{"collection":""}},"collection-2":{"type":"collection","settings":{"collection":""}},"collection-3":{"type":"collection","settings":{"collection":""}},"collection-4":{"type":"collection","settings":{"collection":""}},"collection-5":{"type":"collection","settings":{"collection":""}},"251025eb-4e17-48d5-b423-fc3c87660798":{"type":"collection","settings":{"collection":""}}},"block_order":["collection-0","collection-1","collection-2","collection-3","collection-4","collection-5","251025eb-4e17-48d5-b423-fc3c87660798"],"settings":{"title":"Our collections","link_title":"View all","link":"shopify:\/\/collections","round_images":true,"show_collection_title":true}},"collection-template":{"type":"collection-template","settings":{"show_collection_image":false,"collapse_collection_description":false,"collection_image_size":"preserve_ratio","products_per_row":"4","default_products_per_page":24,"default_view_layout":"grid","show_quick_buy":"list","show_quick_view":"list","quick_links":"cole-es","quick_links_show_products_count":false,"show_filters":false,"show_filter_color_swatch":false,"filter_type":"tag","open_group_filters_mode":"all_closed","filter_group_order":""}},"recently-viewed-products":{"type":"recently-viewed-products","settings":{"title":"Recently viewed","show_quick_buy":false}},"product-template":{"type":"product-template","settings":{"mostrar_frete1":true,"titulofrete":"Entrega via Correios©","cordaborda":"#2679b3","mostrar_frete2":true,"mostrar_fretegratis":true,"mostrar_frete_full":true,"mostrar_correios":true,"mostrar_devolucao":true,"mostrar_garantia":true,"mostrar_maisvendido":true,"mostrar_pix":true,"pix":"10","mostrar_contador":true,"bg_contador":"#000000","txt_um_contador":"#ffffff","texto_contador":"(edite) Corra! Promo acaba em","txt_dois_contador":"#ffce00","corbandeiras":"#2679b3","mostrar_bandeiras":true,"mostrar_cssryviu":false,"mostrar_cssareviews":false,"mostrar_addtocart":false,"mostrar_quantidadevendidos":true,"mostrar_icone":true,"mostrar_codigodoitem":true,"mostrar_barra_de_entrega":true,"blackfriday":false,"show_vendor":true,"show_sku":true,"selector_mode":"block","color_mode":"variant_image","show_quantity_selector":true,"show_payment_button":false,"image_size":"medium","enable_image_zoom":true,"enable_video_looping":false,"zoom_effect":"inside","carousel_effect":"fade","show_inventory_quantity":false,"low_inventory_threshold":1,"content_display_mode":"show_all_and_expand_description","tab_page_1_handle":"","tab_page_2_handle":"","tab_page_3_handle":"","enable_reviews":false,"show_reviews_badge":false,"trust_title":"Pagamento Seguro","show_payment_icons":true,"show_shipping_estimator":true,"shipping_estimator_default_country":"","show_refunds_policy":false}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"heading":"Talvez você goste","show_quick_buy":true}},"announcement-bar":{"type":"announcement-bar","settings":{"show_announcement":true,"background1":"#105484","background2":"#105484","text_color":"#ffffff","mostraricone":true,"text":"OFERTAS DIA DO CLIENTE AINDA ATIVAS","show_newsletter":false,"newsletter_button":"","newsletter_title":"Newsletter","newsletter_content":"<p>Se inscreva em nossa newsletter para receber as últimas promoções.<\/p>"}},"popups":{"type":"popups","blocks":{"add8bb10-4ef0-4f85-b6f2-a4925530b254":{"type":"newsletter","settings":{"show_only_on_index":false,"show_only_for_visitors":false,"show_only_once":true,"title":"Você também quer participar do grupo exclusivo de promoções?","content":"<p>Cadastre seu e-mail e receba ofertas exclusivas direto no seu e-mail. <strong>A última oferta foi de deixar de boca aberta. <\/strong>Se eu fosse você ficava de olho na caixa de e-mail, <strong>te vejo lá.<\/strong><\/p>","show_newsletter":true,"apparition_delay":5}}},"block_order":["add8bb10-4ef0-4f85-b6f2-a4925530b254"],"settings":{}},"text-with-icons":{"type":"text-with-icons","blocks":{"text-with-icons-3":{"type":"item","settings":{"icon":"bi-mobile-payment","title":"Compra Segura","content":"<p>Ambiente  seguro para pagamentos online<\/p>"}},"text-with-icons-0":{"type":"item","settings":{"icon":"bi-fast-delivery","title":"Frete Grátis","content":"<p>Envio rápido e acompanhado com código de rastreio<br\/><\/p>"}},"text-with-icons-2":{"type":"item","settings":{"icon":"bi-love","title":"Suporte Profissional","content":"<p>Equipe de suporte de extrema qualidade a semana toda<br\/><\/p>"}},"text-with-icons-1":{"type":"item","settings":{"icon":"bi-returns","title":"Satisfação ou Reembolso","content":"<p>Caso haja algo, devolvemos seu dinheiro com velocidade<\/p>"}}},"block_order":["text-with-icons-3","text-with-icons-0","text-with-icons-2","text-with-icons-1"],"settings":{"show_section":true,"stack_mobile":false}},"16153539675ef431a7":{"type":"featured-collection","settings":{"collection":"linha-tatica-militar","title":"Linha Tática ArmyForce","products_count":6,"layout":"collage","stack_desktop":false,"show_quick_buy":true,"link_title":"Ver todos","link_url":"shopify:\/\/collections\/acessorios-femininos"}},"16153541158fc73818":{"type":"featured-collection","settings":{"collection":"ferramentas-e-utensilios","title":"Ferramentas e Eletrônicos","products_count":12,"layout":"horizontal","stack_desktop":false,"show_quick_buy":false,"link_title":"Ver Todos","link_url":"shopify:\/\/collections\/ferramentas-e-utensilios"}},"static-promotion-list":{"type":"static-promotion-list","settings":{"expand_items":false,"section_size":"large","stack_mobile":false}},"static-recently-viewed-products":{"type":"static-recently-viewed-products","settings":{"show_section":true,"title":"Produtos que você viu recentemente","show_quick_buy":true}},"cart-template":{"type":"cart-template","settings":{"enable_order_notes":false,"mostrar_mensagempixcartao":true,"show_payment_icons":true,"gift_wrap_product":"embrulhar-pedido","gift_wrap_text":"Deseja embrulhar seu pedido?","gift_wrap_button":"Adicionar agora","show_shipping_estimator":true,"shipping_estimator_default_country":"Brazil","trust_heading":"Nossas garantias","upsell_heading":"Aproveite e leve também","upsell_collection":"frontpage","upsell_products_count":4}},"static-newsletter":{"type":"static-newsletter","settings":{"show_section":false,"title":"Subscribe to our newsletter","content":"<p>A short sentence describing what someone will receive by subscribing<\/p>","subtext":"100% free, Unsubscribe any time!","background":"#1e2d7d","text":"#ffffff"}},"page-contact-template":{"type":"page-contact-template","settings":{"form_heading":"Preenche o formulário abaixo.","show_store_info":true,"store_heading":"","store_info":""}},"16494890143053ae61":{"type":"image-with-text","settings":{"image":"shopify:\/\/shop_images\/Loja-vida-sem-stress.jpg","image_position":"left","image_width":40,"title":"Quem somos","content":"<p>Somos uma equipe de pessoas apaixonadas pelo que fazem e com muita vontade de entregar o melhor atendimento, a melhor experiência e os melhores produtos do mercado.<\/p><p><em><strong>É um prazer ver você por aqui, sinta-se a vontade e pode contar com a gente!<\/strong><\/em><br\/><\/p>","button_text":"Saber mais sobre nós","button_link":"shopify:\/\/pages\/sobre-a-loja-emporio-tatico"}},"1649913261818592e3":{"type":"promotion-list","blocks":{"1649913261818592e3-0":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/4.png","show_overlay":true,"overlay_opacity":49,"stretch_image":false,"background":"#105484","background2":"#2679b3","text_color":"#f8f8f8","title":"Calça Tática Militar Ultra Resistente e A Prova D'água ArmyForce","content":"A calça que foi \nfeita para durar","content_position":"top_left","button_background":"#ffffff","button_text_color":"#005000","button_text":"Ver produto","button_link":"shopify:\/\/products\/calca-tatica-militar-oficial-ultra-resistente-e-a-prova-dagua"}},"1649913261818592e3-1":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/Bota_emporio_tatico.png","show_overlay":true,"overlay_opacity":50,"stretch_image":false,"background":"#105484","background2":"#2679b3","text_color":"#ffffff","title":"Bota Tática ArmyForce","content":"Essa bota está entre\nas mais procuradas","content_position":"top_left","button_background":"#ffffff","button_text_color":"#333712","button_text":"Ver produto","button_link":"shopify:\/\/products\/bota-tatica-army-force"}},"1649913261818592e3-2":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/relogio_emporio_tatico.png","show_overlay":true,"overlay_opacity":48,"stretch_image":false,"background":"#105484","background2":"#2679b3","text_color":"#ffffff","title":"Relógio Tático Militar ArmyForce™ - Compre 1 Leve 2","content":"Tecnologia e resistência\nque te acompanha","content_position":"top_left","button_background":"#ffffff","button_text_color":"#333712","button_text":"Ver produto","button_link":"shopify:\/\/products\/relogio-tatico-militar-armyforce™-compre-1-leve-2-promocao-lancamento"}}},"block_order":["1649913261818592e3-0","1649913261818592e3-1","1649913261818592e3-2"],"settings":{"expand_items":true,"section_size":"medium","stack_mobile":false}},"1649913264519d35a7":{"type":"collection-with-image","settings":{"collection":"acessorios-femininos","products_count":12,"background1":"#105484","background2":"#7d4dd9","text_color":"#ffffff","title":"Você vai ficar para atras? Quem avisa amigo é...","content":"Todos estão comprando estes produtos, vai levar o seu também?","button_background":"#00ad00","button_text_color":"#ffffff","button_text":"Ver todos","button_link":"shopify:\/\/collections\/botas-sapatos-e-tenis"}},"minimal-header":{"type":"minimal-header","settings":{"logo":"shopify:\/\/shop_images\/LOGOMARCA_ISO_COLORIDO_ecc51cc9-6d7c-44e7-abfe-2dd750c53836.png","logo_max_width":175,"mobile_logo_max_width":145}},"password-template":{"type":"password-template","settings":{"show_social_media":true,"heading":"Loja milionária em construção!","text":"<p>Para acessar e sentir o gostinho do sucesso, coloque a senha \"4321\".<\/p>","show_newsletter_signup":false,"newsletter_text":"<p>A short sentence describing what someone will receive by subscribing.<\/p>"}},"search-template":{"type":"search-template","settings":{"products_per_row":"4","default_view_layout":"grid","show_quick_view":"list","show_quick_buy":"list","quick_links":""}},"list-collections-template":{"type":"list-collections-template","settings":{"collections_to_show":"all","show_collection_title":true,"show_collection_overlay":true,"collection_overlay_opacity":20}},"1663002014c9c9f38b":{"type":"collection-list","blocks":{"1663002014c9c9f38b-0":{"type":"collection","settings":{"collection":"produtos-para-pets"}},"e41ee3fa-baac-4f96-8310-6456f7276e53":{"type":"collection","settings":{"collection":"tudo-para-sua-saude"}},"1663002014c9c9f38b-1":{"type":"collection","settings":{"collection":"acessorios-masculinos"}},"1663002014c9c9f38b-2":{"type":"collection","settings":{"collection":"acessorios-para-automoveis"}},"1663002014c9c9f38b-3":{"type":"collection","settings":{"collection":"casa-e-cozinha"}},"1663002014c9c9f38b-4":{"type":"collection","settings":{"collection":"produtos-de-beleza"}},"1663002014c9c9f38b-5":{"type":"collection","settings":{"collection":"acessorios-femininos"}},"42ce8088-e9ee-4613-bb34-394af78f4d0d":{"type":"collection","settings":{"collection":"ferramentas-e-utensilios"}},"80d84133-ed0c-437c-9a38-b81eab9e1f92":{"type":"collection","settings":{"collection":"moda-feminina"}},"a17d6a51-ba33-4332-9080-a8bb73562628":{"type":"collection","settings":{"collection":"moda-masculina"}}},"block_order":["1663002014c9c9f38b-0","e41ee3fa-baac-4f96-8310-6456f7276e53","1663002014c9c9f38b-1","1663002014c9c9f38b-2","1663002014c9c9f38b-3","1663002014c9c9f38b-4","1663002014c9c9f38b-5","42ce8088-e9ee-4613-bb34-394af78f4d0d","80d84133-ed0c-437c-9a38-b81eab9e1f92","a17d6a51-ba33-4332-9080-a8bb73562628"],"settings":{"title":"Nossos Departamentos","link_title":"Ver Tudo","link":"shopify:\/\/collections","round_images":true,"show_collection_title":true}},"1663256166cc2cc581":{"type":"featured-collection","settings":{"collection":"😍-ta-todo-mundo-comprando","title":"Tá todo mundo comprando 😍","products_count":12,"layout":"collage","stack_desktop":false,"show_quick_buy":false,"link_title":"Ver todos","link_url":"shopify:\/\/collections\/😍-ta-todo-mundo-comprando"}},"blog-template":{"type":"blog-template","settings":{"articles_per_page":12,"highlight_first_article":true,"show_tags":true,"show_category":true,"show_author":true,"show_date":true,"show_excerpt":false}},"blog-sidebar":{"type":"blog-sidebar","blocks":{"82d28ca1-b691-445e-aad1-fd4e3e25017f":{"type":"featured_products","settings":{"title":"Produtos Em Destaque","product_1":"lanterna-de-cabeca-potente-linha-profissional-ultraled-1","product_2":"barbeador-eletrico-undercut-pro-bateria-recarregavel-e-corte-perfeito","product_3":"poderoso-barbeador-eletrico-de-bolso-barber-pro-oficial-lancamento-2022-em-promocao-frete-gratis"}},"f449a80c-31f7-4fa4-89b7-614ce4554093":{"type":"links","settings":{"menu":"cole-es"}}},"block_order":["82d28ca1-b691-445e-aad1-fd4e3e25017f","f449a80c-31f7-4fa4-89b7-614ce4554093"],"settings":{"show_on_mobile":true}},"article-template":{"type":"article-template","settings":{"show_category":true,"show_author":true,"show_date":true,"show_share_buttons":true,"show_tags":true,"show_gravatar":true}}},"content_for_index":["1663256166cc2cc581","16153539675ef431a7","slideshow","1663002014c9c9f38b","1649913261818592e3","16153541158fc73818","1649913264519d35a7","16494890143053ae61"]},"presets":{"Metal":{"heading_color":"#1e2d7d","text_color":"#677279","accent_color":"#00badb","link_color":"#00badb","border_color":"#e1e3e4","background":"#f3f5f6","secondary_background":"#ffffff","error_color":"#ff0000","success_color":"#00aa00","primary_button_background":"#00badb","primary_button_text_color":"#ffffff","secondary_button_background":"#1e2d7d","secondary_button_text_color":"#ffffff","header_background":"#1e2d7d","header_text_color":"#ffffff","header_light_text_color":"#a3afef","header_accent_color":"#00badb","product_on_sale_accent":"#ee0000","product_in_stock_color":"#008a00","product_low_stock_color":"#ee0000","product_sold_out_color":"#8a9297","product_label_1_background":"#008a00","product_label_2_background":"#00a500","product_star_color":"#ffbd00","addzap":true,"zapicon":true,"imagezap":"shopify:\/\/shop_images\/super-oferta.png","numberzap":"5551984869182","titlezap":"Fale Conosco \n<span>\nO melhor suporte é com a Luky Ofertas!\n<\/span>","colorzap":"#ff7200","chatzap":"Olá, estou aqui para te ajudar!","digizap":"Digite sua mensagem...","base_text_font_size":16,"heading_font":"din_next_n5","text_font":"din_next_n4","underline_links":true,"animation_image_zoom":true,"search_mode":"product,article","show_vendor":true,"show_secondary_image":true,"product_price_position":"after_title","product_image_size":"natural","show_discount":true,"discount_mode":"saving","show_color_swatch":false,"show_inventory_quantity":false,"low_inventory_threshold":0,"show_reviews_badge":false,"cart_type":"drawer","cart_empty_button_link":"shopify:\/\/collections\/all","cart_show_free_shipping_threshold":false,"cart_free_shipping_threshold":"50","share_image":"","social_facebook":"","social_twitter":"","social_google_plus":"","social_pinterest":"","social_instagram":"","social_vimeo":"","social_tumblr":"","social_youtube":"","social_linkedin":"","social_snapchat":"","social_fancy":"","favicon":"","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#00badb","checkout_button_color":"#00badb","checkout_error_color":"#ff0000","sections":{"header":{"type":"header","settings":{"logo":"","logo_max_width":140,"mobile_logo_max_width":100,"navigation_menu":"main-menu","desktop_navigation_layout":"inline","desktop_navigation_open_trigger":"hover","navigation_phone_number":"Call us 000-000-0000","navigation_email":"info@yourwebsite.com","search_menu":""}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"text","settings":{"title":"About the shop","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"}},"footer-1":{"type":"links","settings":{"menu":"footer"}},"footer-2":{"type":"newsletter","settings":{"title":"Newsletter","subheading":"<p>A short sentence describing what someone will receive by subscribing<\/p>"}}},"block_order":["footer-0","footer-1","footer-2"],"settings":{"show_social_media":true,"show_payment_icons":true}},"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"image":"","mobile_image":"","text_color":"#ffffff","title":"Tell your story","content":"Tell your story","content_position":"bottomLeft","button_background":"#ffffff","button_text_color":"#000000","button_text":"Button","link":""}},"slide-1":{"type":"image","settings":{"image":"","mobile_image":"","text_color":"#ffffff","title":"Tell your story","content":"Tell your story","content_position":"bottomLeft","button_background":"#ffffff","button_text_color":"#000000","button_text":"Button","link":""}}},"block_order":["slide-0","slide-1"],"settings":{"edge_to_edge":true,"section_size":"preserve_ratio","cycle_speed":5}},"collection-list":{"type":"collection-list","blocks":{"collection-0":{"type":"collection","settings":{"collection":"","image":""}},"collection-1":{"type":"collection","settings":{"collection":"","image":""}},"collection-2":{"type":"collection","settings":{"collection":"","image":""}},"collection-3":{"type":"collection","settings":{"collection":"","image":""}},"collection-4":{"type":"collection","settings":{"collection":"","image":""}},"collection-5":{"type":"collection","settings":{"collection":"","image":""}}},"block_order":["collection-0","collection-1","collection-2","collection-3","collection-4","collection-5"],"settings":{"title":"Our collections","link_title":"View all","link":"shopify:\/\/collections"}},"featured-product":{"type":"featured-product","settings":{"product":"","title":"Featured product","selector_mode":"block","color_mode":"color","zoom_effect":"outside","carousel_effect":"fade","low_inventory_threshold":0}},"collection-template":{"type":"collection-template","settings":{"collection_image_size":"small","default_view_layout":"grid","show_quick_buy":"list","show_quick_view":"list","quick_links":"","filter_type":"tag"}},"recently-viewed-products":{"type":"recently-viewed-products","settings":{"title":"Recently viewed"}},"product-template":{"type":"product-template","settings":{"selector_mode":"block","color_mode":"color","zoom_effect":"outside","carousel_effect":"fade","low_inventory_threshold":0,"tab_page_1_handle":"","tab_page_2_handle":"","tab_page_3_handle":"","custom_security_badge":""}},"product-recommendations":{"type":"product-recommendations","settings":{}},"announcement-bar":{"type":"announcement-bar","settings":{"text_color":"#ffffff","text":"Announce something here","newsletter_button":"Subscribe & Save","newsletter_title":"Newsletter","newsletter_content":"<p>A short sentence describing what someone will receive by subscribing<\/p>"}},"1542984811767":{"type":"featured-collection","settings":{"collection":"","title":"Featured collection","products_count":12,"layout":"vertical","link_title":"View all"}},"1542984842027":{"type":"newsletter","settings":{"title":"Newsletter","content":"<p>A short sentence describing what someone will receive by subscribing<\/p>"}},"1542984882560":{"type":"blog-posts","settings":{"blog":"news","title":"Blog posts"}}},"content_for_index":["slideshow","1542984811767","collection-list","1542984842027","featured-product","1542984882560"]},"Wood":{"heading_color":"#3a2a2f","text_color":"#3a2a2f","accent_color":"#ff6128","link_color":"#ff6128","border_color":"#e7e2de","background":"#f7f4f2","secondary_background":"#ffffff","error_color":"#f71b1b","success_color":"#48b448","primary_button_background":"#ff6128","primary_button_text_color":"#ffffff","secondary_button_background":"#3a2a2f","secondary_button_text_color":"#ffffff","header_background":"#3a2a2f","header_text_color":"#ffffff","header_light_text_color":"#e9e2dd","header_accent_color":"#ff6128","product_on_sale_accent":"#ee0000","product_in_stock_color":"#008a00","product_low_stock_color":"#ee0000","product_sold_out_color":"#d1d1d4","product_label_1_background":"#ff6128","product_label_2_background":"#a95ebe","product_star_color":"#ffb647","base_text_font_size":15,"heading_font":"itc_avant_garde_gothic_n5","text_font":"basic_commercial_n4","underline_links":true,"animation_image_zoom":true,"search_mode":"product,article,page","show_vendor":true,"show_secondary_image":true,"show_discount":true,"discount_mode":"percentage","product_price_position":"after_title","product_image_size":"square","show_color_swatch":false,"show_inventory_quantity":true,"low_inventory_threshold":1,"show_reviews_badge":false,"cart_type":"drawer","cart_empty_button_link":"shopify:\/\/collections\/all","cart_show_free_shipping_threshold":true,"cart_free_shipping_threshold":"50","checkout_logo_position":"center","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#f7f4f2","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#ff6128","checkout_button_color":"#ff6128","checkout_error_color":"#f71b1b","sections":{"header":{"type":"header","settings":{"logo":"","logo_max_width":140,"mobile_logo_max_width":100,"navigation_menu":"main-menu","desktop_navigation_layout":"inline","desktop_navigation_open_trigger":"hover","navigation_phone_number":"Call us 000-000-0000","navigation_email":"info@yourwebsite.com","search_menu":""}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"text","settings":{"title":"About the shop","content":"<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"}},"footer-1":{"type":"links","settings":{"menu":"footer"}},"footer-2":{"type":"newsletter","settings":{"title":"Newsletter","subheading":"<p>A short sentence describing what someone will receive by subscribing<\/p>"}}},"block_order":["footer-0","footer-1","footer-2"],"settings":{"show_social_media":true,"show_payment_icons":true}},"slideshow":{"type":"slideshow","blocks":{"slide-0":{"type":"image","settings":{"image":"","mobile_image":"","text_color":"#ffffff","title":"Tell your story","content":"Tell your story","content_position":"bottomLeft","button_background":"#ffffff","button_text_color":"#000000","button_text":"Button","link":""}},"slide-1":{"type":"image","settings":{"image":"","mobile_image":"","text_color":"#ffffff","title":"Tell your story","content":"Tell your story","content_position":"bottomLeft","button_background":"#ffffff","button_text_color":"#000000","button_text":"Button","link":""}}},"block_order":["slide-0","slide-1"],"settings":{"edge_to_edge":true,"section_size":"preserve_ratio","cycle_speed":5}},"collection-list":{"type":"collection-list","blocks":{"collection-0":{"type":"collection","settings":{"collection":"","image":""}},"collection-1":{"type":"collection","settings":{"collection":"","image":""}},"collection-2":{"type":"collection","settings":{"collection":"","image":""}},"collection-3":{"type":"collection","settings":{"collection":"","image":""}},"collection-4":{"type":"collection","settings":{"collection":"","image":""}},"collection-5":{"type":"collection","settings":{"collection":"","image":""}}},"block_order":["collection-0","collection-1","collection-2","collection-3","collection-4","collection-5"],"settings":{"title":"Our collections","link_title":"View all","link":"shopify:\/\/collections"}},"collection-template":{"type":"collection-template","settings":{"collection_image_size":"small","default_view_layout":"grid","show_quick_buy":"list","show_quick_view":"list","quick_links":"","filter_type":"tag"}},"recently-viewed-products":{"type":"recently-viewed-products","settings":{"title":"Recently viewed"}},"product-template":{"type":"product-template","settings":{"selector_mode":"block","color_mode":"color","zoom_effect":"outside","carousel_effect":"fade","low_inventory_threshold":0,"tab_page_1_handle":"","tab_page_2_handle":"","tab_page_3_handle":"","custom_security_badge":""}},"product-recommendations":{"type":"product-recommendations","settings":{}},"announcement-bar":{"type":"announcement-bar","settings":{"text_color":"#ffffff","text":"Announce something here","newsletter_button":"Subscribe & Save","newsletter_title":"Newsletter","newsletter_content":"<p>A short sentence describing what someone will receive by subscribing<\/p>"}},"1542984811767":{"type":"featured-collection","settings":{"collection":"","title":"Featured collection","products_count":12,"layout":"vertical","link_title":"View all"}},"1550833441117":{"type":"collection-with-image","settings":{"collection":"","products_count":12,"image":"","text_color":"#ffffff","title":"Our best sellers","content":"Shop our most popular products for this season.","button_background":"#e95d2b","button_text_color":"#ffffff","button_text":"Learn more","button_link":""}},"1555314133560":{"type":"promotion-list","blocks":{"1555314133560-0":{"type":"item","settings":{"image":"","show_overlay":false,"stretch_image":false,"background":"#6f42ef","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","button_background":"#ffffff","button_text_color":"#6f42ef","button_text":"Learn more","button_link":""}},"1555314133560-1":{"type":"item","settings":{"image":"","show_overlay":false,"stretch_image":false,"background":"#fc2a68","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","button_background":"#ffffff","button_text_color":"#fc2a68","button_text":"Learn more","button_link":""}},"1555314133560-2":{"type":"item","settings":{"image":"","show_overlay":false,"stretch_image":false,"background":"#26c1ce","text_color":"#ffffff","title":"Your heading","content":"Tell more about your product, collection...","button_background":"#ffffff","button_text_color":"#26c1ce","button_text":"Learn more","button_link":""}}},"block_order":["1555314133560-0","1555314133560-1","1555314133560-2"],"settings":{"expand_items":false,"section_size":"medium","stack_mobile":false}},"1542984882560":{"type":"blog-posts","settings":{"blog":"news","title":"Blog posts"}}},"content_for_index":["slideshow","1542984811767","1555314133560","collection-list","1550833441117","1542984882560"]}}}
+{
+  "current": {
+    "heading_color": "#105484",
+    "text_color": "#3a2a2f",
+    "accent_color": "#ec8100",
+    "link_color": "#105484",
+    "border_color": "#cacaca",
+    "background": "#f7f7f7",
+    "secondary_background": "#ffffff",
+    "error_color": "#f71b1b",
+    "success_color": "#00d864",
+    "primary_button_background": "#00cb00",
+    "primary_button_text_color": "#ffffff",
+    "secondary_button_background": "#202020",
+    "secondary_button_text_color": "#f7f7f7",
+    "footer_background": "#105484",
+    "footer_text_color": "#ffffff",
+    "header_background": "#2679b3",
+    "header_text_color": "#ffffff",
+    "header_light_text_color": "#f7f7f7",
+    "header_accent_color": "#ec8100",
+    "product_on_sale_accent": "#2679b3",
+    "product_cor_do_preco": "#228b22",
+    "product_cor_do_preco_riscado": "#737b97",
+    "product_cor_dos_titles": "#0076ff",
+    "product_in_stock_color": "#00d864",
+    "product_low_stock_color": "#ee0000",
+    "product_sold_out_color": "#d1d1d4",
+    "product_label_1_background": "#ff6128",
+    "product_label_2_background": "#228b22",
+    "product_star_color": "#ffb647",
+    "ali_hunter_enable": true,
+    "botao_direito_enable": false,
+    "atalho_f12_enable": false,
+    "selecionar_conteudo_enable": false,
+    "addzap": true,
+    "numberzap": "5551995715498",
+    "titlezap": "Olá, meu nome é Maiara 😊\n<span>\nEstá pronto para receber o <b>melhor atendimento?<\/b>\n<\/span>",
+    "colorzap": "#05c55e",
+    "chatzap": "Estou online, como posso te ajudar?",
+    "digizap": "Digite sua mensagem...",
+    "base_text_font_size": 17,
+    "heading_font": "rubik_n7",
+    "text_font": "rubik_n4",
+    "underline_links": true,
+    "animation_image_zoom": false,
+    "search_mode": "product",
+    "mostrar_fretegratis1": true,
+    "cordabarra": "#008000",
+    "cordotexto": "#ffffff",
+    "mostrar_estrelas": false,
+    "corstars": "#ffce00",
+    "show_vendor": false,
+    "show_secondary_image": true,
+    "show_discount": true,
+    "discount_mode": "saving",
+    "product_price_position": "after_title",
+    "product_image_size": "natural",
+    "show_color_swatch": false,
+    "show_inventory_quantity": false,
+    "low_inventory_threshold": 0,
+    "show_reviews_badge": true,
+    "cart_type": "page",
+    "cart_empty_button_link": "shopify:\/\/collections\/all",
+    "cart_show_free_shipping_threshold": false,
+    "cart_free_shipping_threshold": "50",
+    "social_facebook": "",
+    "social_twitter": "",
+    "social_pinterest": "",
+    "social_instagram": "",
+    "social_vimeo": "",
+    "social_tumblr": "",
+    "social_youtube": "",
+    "social_linkedin": "",
+    "social_snapchat": "",
+    "social_fancy": "",
+    "favicon": "shopify:\/\/shop_images\/Loja_vida_sem_stress.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo210x_40x_6b8e4909-3fbb-4178-8775-39900114df23.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#f7f4f2",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#3a2a2f",
+    "checkout_button_color": "#f6cc3f",
+    "checkout_error_color": "#f71b1b",
+    "cordefundo": "#702dfa",
+    "header_cordotexto": "#96a3da",
+    "header_corsubheader": "#1d2a6c",
+    "sections": {
+      "header": {
+        "type": "header",
+        "blocks": {
+          "7000eb54-1dfe-42a3-9fb7-577d915b94cb": {
+            "type": "mega_menu",
+            "disabled": true,
+            "settings": {
+              "menu_item": "",
+              "image_1_heading": "Your image",
+              "image_1_text": "Tell your story",
+              "image_1_link": "",
+              "image_2_heading": "Your image",
+              "image_2_text": "Tell your story",
+              "image_2_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "7000eb54-1dfe-42a3-9fb7-577d915b94cb"
+        ],
+        "settings": {
+          "enable_sticky_header": false,
+          "rastreiopage": "rastrear-pedido",
+          "logo": "shopify:\/\/shop_images\/Logotipo-600x300-Alta-Resolucao.png",
+          "logo_max_width": 190,
+          "mobile_logo_max_width": 125,
+          "barraimg_top": false,
+          "barraimg_bottom": true,
+          "bgimg": "#105484",
+          "imgpc": "shopify:\/\/shop_images\/OFERTAS_ARRASADORAS_2.png",
+          "imgpc_max_width": 70,
+          "imgmob": "shopify:\/\/shop_images\/OFERTAS_ARRASADORAS_2.png",
+          "imgmob_max_width": 100,
+          "linkimg": "https:\/\/emporiotatico.myshopify.com\/collections\/all",
+          "mostrar_barra": true,
+          "background1": "#00cb00",
+          "background2": "#2f00fc",
+          "background3": "#2679b3",
+          "background4": "#ec8100",
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "navigation_menu": "",
+          "desktop_navigation_layout": "inline",
+          "desktop_navigation_open_trigger": "hover",
+          "show_navigation_social_media": false,
+          "navigation_phone_number": "(51) 99571-5498",
+          "navigation_email": "contato@vidasemstress.com.br",
+          "show_condensed_search": false,
+          "show_search_filter": false,
+          "search_menu": "",
+          "show_search_menu_title": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "c9a6c378-573f-4c54-9fc6-5ca6e279f3f2": {
+            "type": "text",
+            "settings": {
+              "title": "CANAIS DE ATENDIMENTO",
+              "content": "<p><strong>Estamos prontos para te atender<\/strong><\/p><p><strong>E-mail: <\/strong>contato@vidasemstress.com.br<br\/><strong>WhatsApp:<\/strong> (51) 99571-5498<\/p><p><strong>Endereço: <\/strong>Rua das oliveiras, n° 338. Bairro Bom Princípio - Gravataí\/RS. CEP: 94070-440.<\/p>"
+            }
+          },
+          "footer-1": {
+            "type": "links",
+            "settings": {
+              "menu": "footer"
+            }
+          },
+          "57463976-9637-4218-93e5-940cab008379": {
+            "type": "links",
+            "settings": {
+              "menu": ""
+            }
+          },
+          "23b7e603-1746-4ba2-b8e6-5856acdfd7a5": {
+            "type": "newsletter",
+            "settings": {
+              "title": "RECEBA PROMOÇÕES ÚNICAS AQUI!",
+              "subheading": "<p>Junte-se ao grupo de pessoas que recebe as <strong>melhores promoções <\/strong>direto no e-mail!<\/p><p> <\/p><p>Cadastre seu melhor e-mail aqui.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "c9a6c378-573f-4c54-9fc6-5ca6e279f3f2",
+          "footer-1",
+          "57463976-9637-4218-93e5-940cab008379",
+          "23b7e603-1746-4ba2-b8e6-5856acdfd7a5"
+        ],
+        "settings": {
+          "mostrar_mensagemdeaviso": true,
+          "textdordp": "<p><strong>Você está no site oficial VIDA SEM STRESS, confiável e seguro<\/strong>. Evite comprar produtos mais baratos ou de outras lojas pouco confiáveis, pois <span style=\"text-decoration:underline\">você pode estar sendo enganado(a) por um golpista<\/span>. Caso você compre os mesmos produtos em outras lojas,<strong> não nos responsabilizamos por quaisquer problemas. <\/strong>Qualquer dúvida entre em contato a qualquer momento.<\/p>",
+          "mostrar_logotipo": true,
+          "logo": "shopify:\/\/shop_images\/Logotipo-600x300-Alta-Resolucao.png",
+          "mostrar_selo1": true,
+          "selo1": "https:\/\/www.sslshopper.com\/ssl-checker.html#hostname=vidasemstress.com.br",
+          "mostrar_selo2": true,
+          "selo2": "",
+          "mostrar_selo3": true,
+          "selo3": "https:\/\/transparencyreport.google.com\/safe-browsing\/search?url=vidasemstress.com.br",
+          "mostrar_barra": true,
+          "background1": "#00cb00",
+          "background2": "#2f00fc",
+          "background3": "#2679b3",
+          "background4": "#ec8100",
+          "show_social_media": false,
+          "show_payment_icons": true,
+          "show_locale_selector": false,
+          "show_currency_selector": false,
+          "show_cookie_bar": true,
+          "text": "<p>Utilizamos cookies para melhorar nosso site e sua experiência de compra. Ao continuar navegando em nosso site,<strong>você está de acordo conforme nossa política de utilização de cookies.<\/strong><\/p>",
+          "accept_button": "ENTENDI E FECHAR"
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "bbea030d-de91-4721-9ea1-9660f647bbd7": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Banner-vida-sem-stress-frete-gratis-entrega-pelos-correios-com-rastreamento-mobile_a49c9e2d-9451-44aa-95e0-19e8e477260c.jpg",
+              "show_overlay": false,
+              "overlay_opacity": 0,
+              "text_color": "#ffffff",
+              "title": "",
+              "content": "",
+              "content_position": "middle_center",
+              "button_background": "#ffffff",
+              "button_text_color": "#000000",
+              "button_text": "",
+              "link": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "bbea030d-de91-4721-9ea1-9660f647bbd7"
+        ],
+        "settings": {
+          "edge_to_edge": false,
+          "section_size": "preserve_ratio",
+          "carousel_effect": "slide",
+          "autoplay": true,
+          "cycle_speed": 5
+        }
+      },
+      "collection-list": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "collection-0": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "collection-1": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "collection-2": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "collection-3": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "collection-4": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "collection-5": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          },
+          "251025eb-4e17-48d5-b423-fc3c87660798": {
+            "type": "collection",
+            "settings": {
+              "collection": ""
+            }
+          }
+        },
+        "block_order": [
+          "collection-0",
+          "collection-1",
+          "collection-2",
+          "collection-3",
+          "collection-4",
+          "collection-5",
+          "251025eb-4e17-48d5-b423-fc3c87660798"
+        ],
+        "settings": {
+          "title": "Our collections",
+          "link_title": "View all",
+          "link": "shopify:\/\/collections",
+          "round_images": true,
+          "show_collection_title": true
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "show_collection_image": false,
+          "collapse_collection_description": false,
+          "collection_image_size": "preserve_ratio",
+          "products_per_row": "4",
+          "default_products_per_page": 24,
+          "default_view_layout": "grid",
+          "show_quick_buy": "list",
+          "show_quick_view": "list",
+          "quick_links": "cole-es",
+          "quick_links_show_products_count": false,
+          "show_filters": false,
+          "show_filter_color_swatch": false,
+          "filter_type": "tag",
+          "open_group_filters_mode": "all_closed",
+          "filter_group_order": ""
+        }
+      },
+      "recently-viewed-products": {
+        "type": "recently-viewed-products",
+        "settings": {
+          "title": "Recently viewed",
+          "show_quick_buy": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "mostrar_frete1": false,
+          "titulofrete": "Entrega via Correios©",
+          "cordaborda": "#2679b3",
+          "mostrar_frete2": true,
+          "mostrar_fretegratis": true,
+          "mostrar_frete_full": true,
+          "mostrar_correios": true,
+          "mostrar_devolucao": true,
+          "mostrar_garantia": true,
+          "mostrar_maisvendido": true,
+          "mostrar_pix": true,
+          "pix": "10",
+          "mostrar_contador": true,
+          "bg_contador": "#000000",
+          "txt_um_contador": "#ffffff",
+          "texto_contador": "(edite) Corra! Promo acaba em",
+          "txt_dois_contador": "#ffce00",
+          "corbandeiras": "#2679b3",
+          "mostrar_bandeiras": true,
+          "mostrar_cssryviu": false,
+          "mostrar_cssareviews": false,
+          "mostrar_addtocart": false,
+          "mostrar_quantidadevendidos": true,
+          "mostrar_icone": true,
+          "mostrar_codigodoitem": true,
+          "mostrar_barra_de_entrega": true,
+          "blackfriday": false,
+          "show_vendor": true,
+          "show_sku": true,
+          "selector_mode": "block",
+          "color_mode": "variant_image",
+          "show_quantity_selector": true,
+          "show_payment_button": false,
+          "image_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false,
+          "zoom_effect": "inside",
+          "carousel_effect": "fade",
+          "show_inventory_quantity": false,
+          "low_inventory_threshold": 1,
+          "content_display_mode": "show_all_and_expand_description",
+          "tab_page_1_handle": "",
+          "tab_page_2_handle": "",
+          "tab_page_3_handle": "",
+          "enable_reviews": false,
+          "show_reviews_badge": false,
+          "trust_title": "Pagamento Seguro",
+          "show_payment_icons": true,
+          "show_shipping_estimator": true,
+          "shipping_estimator_default_country": "",
+          "show_refunds_policy": false
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "Talvez você goste",
+          "show_quick_buy": true
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "show_announcement": true,
+          "background1": "#105484",
+          "background2": "#105484",
+          "text_color": "#ffffff",
+          "mostraricone": true,
+          "text": "OFERTAS DIA DO CLIENTE AINDA ATIVAS",
+          "show_newsletter": false,
+          "newsletter_button": "",
+          "newsletter_title": "Newsletter",
+          "newsletter_content": "<p>Se inscreva em nossa newsletter para receber as últimas promoções.<\/p>"
+        }
+      },
+      "popups": {
+        "type": "popups",
+        "blocks": {
+          "add8bb10-4ef0-4f85-b6f2-a4925530b254": {
+            "type": "newsletter",
+            "settings": {
+              "show_only_on_index": false,
+              "show_only_for_visitors": false,
+              "show_only_once": true,
+              "title": "Você também quer participar do grupo exclusivo de promoções?",
+              "content": "<p>Cadastre seu e-mail e receba ofertas exclusivas direto no seu e-mail. <strong>A última oferta foi de deixar de boca aberta. <\/strong>Se eu fosse você ficava de olho na caixa de e-mail, <strong>te vejo lá.<\/strong><\/p>",
+              "show_newsletter": true,
+              "apparition_delay": 5
+            }
+          }
+        },
+        "block_order": [
+          "add8bb10-4ef0-4f85-b6f2-a4925530b254"
+        ],
+        "settings": {
+        }
+      },
+      "text-with-icons": {
+        "type": "text-with-icons",
+        "blocks": {
+          "text-with-icons-3": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-mobile-payment",
+              "title": "Compra Segura",
+              "content": "<p>Ambiente  seguro para pagamentos online<\/p>"
+            }
+          },
+          "text-with-icons-0": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-fast-delivery",
+              "title": "Frete Grátis",
+              "content": "<p>Envio rápido e acompanhado com código de rastreio<br\/><\/p>"
+            }
+          },
+          "text-with-icons-2": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-love",
+              "title": "Suporte Profissional",
+              "content": "<p>Equipe de suporte de extrema qualidade a semana toda<br\/><\/p>"
+            }
+          },
+          "text-with-icons-1": {
+            "type": "item",
+            "settings": {
+              "icon": "bi-returns",
+              "title": "Satisfação ou Reembolso",
+              "content": "<p>Caso haja algo, devolvemos seu dinheiro com velocidade<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "text-with-icons-3",
+          "text-with-icons-0",
+          "text-with-icons-2",
+          "text-with-icons-1"
+        ],
+        "settings": {
+          "show_section": true,
+          "stack_mobile": false
+        }
+      },
+      "16153539675ef431a7": {
+        "type": "featured-collection",
+        "settings": {
+          "collection": "linha-tatica-militar",
+          "title": "Linha Tática ArmyForce",
+          "products_count": 6,
+          "layout": "collage",
+          "stack_desktop": false,
+          "show_quick_buy": true,
+          "link_title": "Ver todos",
+          "link_url": "shopify:\/\/collections\/acessorios-femininos"
+        }
+      },
+      "16153541158fc73818": {
+        "type": "featured-collection",
+        "settings": {
+          "collection": "ferramentas-e-utensilios",
+          "title": "Ferramentas e Eletrônicos",
+          "products_count": 12,
+          "layout": "horizontal",
+          "stack_desktop": false,
+          "show_quick_buy": false,
+          "link_title": "Ver Todos",
+          "link_url": "shopify:\/\/collections\/ferramentas-e-utensilios"
+        }
+      },
+      "static-promotion-list": {
+        "type": "static-promotion-list",
+        "settings": {
+          "expand_items": false,
+          "section_size": "large",
+          "stack_mobile": false
+        }
+      },
+      "static-recently-viewed-products": {
+        "type": "static-recently-viewed-products",
+        "settings": {
+          "show_section": true,
+          "title": "Produtos que você viu recentemente",
+          "show_quick_buy": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "enable_order_notes": false,
+          "mostrar_mensagempixcartao": true,
+          "show_payment_icons": true,
+          "gift_wrap_product": "embrulhar-pedido",
+          "gift_wrap_text": "Deseja embrulhar seu pedido?",
+          "gift_wrap_button": "Adicionar agora",
+          "show_shipping_estimator": true,
+          "shipping_estimator_default_country": "Brazil",
+          "trust_heading": "Nossas garantias",
+          "upsell_heading": "Aproveite e leve também",
+          "upsell_collection": "frontpage",
+          "upsell_products_count": 4
+        }
+      },
+      "static-newsletter": {
+        "type": "static-newsletter",
+        "settings": {
+          "show_section": false,
+          "title": "Subscribe to our newsletter",
+          "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>",
+          "subtext": "100% free, Unsubscribe any time!",
+          "background": "#1e2d7d",
+          "text": "#ffffff"
+        }
+      },
+      "page-contact-template": {
+        "type": "page-contact-template",
+        "settings": {
+          "form_heading": "Preenche o formulário abaixo.",
+          "show_store_info": true,
+          "store_heading": "",
+          "store_info": ""
+        }
+      },
+      "16494890143053ae61": {
+        "type": "image-with-text",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Loja-vida-sem-stress.jpg",
+          "image_position": "left",
+          "image_width": 40,
+          "title": "Quem somos",
+          "content": "<p>Somos uma equipe de pessoas apaixonadas pelo que fazem e com muita vontade de entregar o melhor atendimento, a melhor experiência e os melhores produtos do mercado.<\/p><p><em><strong>É um prazer ver você por aqui, sinta-se a vontade e pode contar com a gente!<\/strong><\/em><br\/><\/p>",
+          "button_text": "Saber mais sobre nós",
+          "button_link": "shopify:\/\/pages\/sobre-a-loja-emporio-tatico"
+        }
+      },
+      "1649913261818592e3": {
+        "type": "promotion-list",
+        "blocks": {
+          "1649913261818592e3-0": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/4.png",
+              "show_overlay": true,
+              "overlay_opacity": 49,
+              "stretch_image": false,
+              "background": "#105484",
+              "background2": "#2679b3",
+              "text_color": "#f8f8f8",
+              "title": "Calça Tática Militar Ultra Resistente e A Prova D'água ArmyForce",
+              "content": "A calça que foi \nfeita para durar",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#005000",
+              "button_text": "Ver produto",
+              "button_link": "shopify:\/\/products\/calca-tatica-militar-oficial-ultra-resistente-e-a-prova-dagua"
+            }
+          },
+          "1649913261818592e3-1": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Bota_emporio_tatico.png",
+              "show_overlay": true,
+              "overlay_opacity": 50,
+              "stretch_image": false,
+              "background": "#105484",
+              "background2": "#2679b3",
+              "text_color": "#ffffff",
+              "title": "Bota Tática ArmyForce",
+              "content": "Essa bota está entre\nas mais procuradas",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#333712",
+              "button_text": "Ver produto",
+              "button_link": "shopify:\/\/products\/bota-tatica-army-force"
+            }
+          },
+          "1649913261818592e3-2": {
+            "type": "item",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/relogio_emporio_tatico.png",
+              "show_overlay": true,
+              "overlay_opacity": 48,
+              "stretch_image": false,
+              "background": "#105484",
+              "background2": "#2679b3",
+              "text_color": "#ffffff",
+              "title": "Relógio Tático Militar ArmyForce™ - Compre 1 Leve 2",
+              "content": "Tecnologia e resistência\nque te acompanha",
+              "content_position": "top_left",
+              "button_background": "#ffffff",
+              "button_text_color": "#333712",
+              "button_text": "Ver produto",
+              "button_link": "shopify:\/\/products\/relogio-tatico-militar-armyforce™-compre-1-leve-2-promocao-lancamento"
+            }
+          }
+        },
+        "block_order": [
+          "1649913261818592e3-0",
+          "1649913261818592e3-1",
+          "1649913261818592e3-2"
+        ],
+        "settings": {
+          "expand_items": true,
+          "section_size": "medium",
+          "stack_mobile": false
+        }
+      },
+      "1649913264519d35a7": {
+        "type": "collection-with-image",
+        "settings": {
+          "collection": "acessorios-femininos",
+          "products_count": 12,
+          "background1": "#105484",
+          "background2": "#7d4dd9",
+          "text_color": "#ffffff",
+          "title": "Você vai ficar para atras? Quem avisa amigo é...",
+          "content": "Todos estão comprando estes produtos, vai levar o seu também?",
+          "button_background": "#00ad00",
+          "button_text_color": "#ffffff",
+          "button_text": "Ver todos",
+          "button_link": "shopify:\/\/collections\/botas-sapatos-e-tenis"
+        }
+      },
+      "minimal-header": {
+        "type": "minimal-header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/LOGOMARCA_ISO_COLORIDO_ecc51cc9-6d7c-44e7-abfe-2dd750c53836.png",
+          "logo_max_width": 175,
+          "mobile_logo_max_width": 145
+        }
+      },
+      "password-template": {
+        "type": "password-template",
+        "settings": {
+          "show_social_media": true,
+          "heading": "Loja milionária em construção!",
+          "text": "<p>Para acessar e sentir o gostinho do sucesso, coloque a senha \"4321\".<\/p>",
+          "show_newsletter_signup": false,
+          "newsletter_text": "<p>A short sentence describing what someone will receive by subscribing.<\/p>"
+        }
+      },
+      "search-template": {
+        "type": "search-template",
+        "settings": {
+          "products_per_row": "4",
+          "default_view_layout": "grid",
+          "show_quick_view": "list",
+          "show_quick_buy": "list",
+          "quick_links": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "collections_to_show": "all",
+          "show_collection_title": true,
+          "show_collection_overlay": true,
+          "collection_overlay_opacity": 20
+        }
+      },
+      "1663002014c9c9f38b": {
+        "type": "collection-list",
+        "blocks": {
+          "1663002014c9c9f38b-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "produtos-para-pets"
+            }
+          },
+          "e41ee3fa-baac-4f96-8310-6456f7276e53": {
+            "type": "collection",
+            "settings": {
+              "collection": "tudo-para-sua-saude"
+            }
+          },
+          "1663002014c9c9f38b-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "acessorios-masculinos"
+            }
+          },
+          "1663002014c9c9f38b-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "acessorios-para-automoveis"
+            }
+          },
+          "1663002014c9c9f38b-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "casa-e-cozinha"
+            }
+          },
+          "1663002014c9c9f38b-4": {
+            "type": "collection",
+            "settings": {
+              "collection": "produtos-de-beleza"
+            }
+          },
+          "1663002014c9c9f38b-5": {
+            "type": "collection",
+            "settings": {
+              "collection": "acessorios-femininos"
+            }
+          },
+          "42ce8088-e9ee-4613-bb34-394af78f4d0d": {
+            "type": "collection",
+            "settings": {
+              "collection": "ferramentas-e-utensilios"
+            }
+          },
+          "80d84133-ed0c-437c-9a38-b81eab9e1f92": {
+            "type": "collection",
+            "settings": {
+              "collection": "moda-feminina"
+            }
+          },
+          "a17d6a51-ba33-4332-9080-a8bb73562628": {
+            "type": "collection",
+            "settings": {
+              "collection": "moda-masculina"
+            }
+          }
+        },
+        "block_order": [
+          "1663002014c9c9f38b-0",
+          "e41ee3fa-baac-4f96-8310-6456f7276e53",
+          "1663002014c9c9f38b-1",
+          "1663002014c9c9f38b-2",
+          "1663002014c9c9f38b-3",
+          "1663002014c9c9f38b-4",
+          "1663002014c9c9f38b-5",
+          "42ce8088-e9ee-4613-bb34-394af78f4d0d",
+          "80d84133-ed0c-437c-9a38-b81eab9e1f92",
+          "a17d6a51-ba33-4332-9080-a8bb73562628"
+        ],
+        "settings": {
+          "title": "Nossos Departamentos",
+          "link_title": "Ver Tudo",
+          "link": "shopify:\/\/collections",
+          "round_images": true,
+          "show_collection_title": true
+        }
+      },
+      "1663256166cc2cc581": {
+        "type": "featured-collection",
+        "settings": {
+          "collection": "😍-ta-todo-mundo-comprando",
+          "title": "Tá todo mundo comprando 😍",
+          "products_count": 12,
+          "layout": "collage",
+          "stack_desktop": false,
+          "show_quick_buy": false,
+          "link_title": "Ver todos",
+          "link_url": "shopify:\/\/collections\/😍-ta-todo-mundo-comprando"
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "articles_per_page": 12,
+          "highlight_first_article": true,
+          "show_tags": true,
+          "show_category": true,
+          "show_author": true,
+          "show_date": true,
+          "show_excerpt": false
+        }
+      },
+      "blog-sidebar": {
+        "type": "blog-sidebar",
+        "blocks": {
+          "82d28ca1-b691-445e-aad1-fd4e3e25017f": {
+            "type": "featured_products",
+            "settings": {
+              "title": "Produtos Em Destaque",
+              "product_1": "lanterna-de-cabeca-potente-linha-profissional-ultraled-1",
+              "product_2": "barbeador-eletrico-undercut-pro-bateria-recarregavel-e-corte-perfeito",
+              "product_3": "poderoso-barbeador-eletrico-de-bolso-barber-pro-oficial-lancamento-2022-em-promocao-frete-gratis"
+            }
+          },
+          "f449a80c-31f7-4fa4-89b7-614ce4554093": {
+            "type": "links",
+            "settings": {
+              "menu": "cole-es"
+            }
+          }
+        },
+        "block_order": [
+          "82d28ca1-b691-445e-aad1-fd4e3e25017f",
+          "f449a80c-31f7-4fa4-89b7-614ce4554093"
+        ],
+        "settings": {
+          "show_on_mobile": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "show_category": true,
+          "show_author": true,
+          "show_date": true,
+          "show_share_buttons": true,
+          "show_tags": true,
+          "show_gravatar": true
+        }
+      }
+    },
+    "content_for_index": [
+      "1663256166cc2cc581",
+      "16153539675ef431a7",
+      "slideshow",
+      "1663002014c9c9f38b",
+      "1649913261818592e3",
+      "16153541158fc73818",
+      "1649913264519d35a7",
+      "16494890143053ae61"
+    ]
+  },
+  "presets": {
+    "Metal": {
+      "heading_color": "#1e2d7d",
+      "text_color": "#677279",
+      "accent_color": "#00badb",
+      "link_color": "#00badb",
+      "border_color": "#e1e3e4",
+      "background": "#f3f5f6",
+      "secondary_background": "#ffffff",
+      "error_color": "#ff0000",
+      "success_color": "#00aa00",
+      "primary_button_background": "#00badb",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#1e2d7d",
+      "secondary_button_text_color": "#ffffff",
+      "header_background": "#1e2d7d",
+      "header_text_color": "#ffffff",
+      "header_light_text_color": "#a3afef",
+      "header_accent_color": "#00badb",
+      "product_on_sale_accent": "#ee0000",
+      "product_in_stock_color": "#008a00",
+      "product_low_stock_color": "#ee0000",
+      "product_sold_out_color": "#8a9297",
+      "product_label_1_background": "#008a00",
+      "product_label_2_background": "#00a500",
+      "product_star_color": "#ffbd00",
+      "addzap": true,
+      "zapicon": true,
+      "imagezap": "shopify:\/\/shop_images\/super-oferta.png",
+      "numberzap": "5551984869182",
+      "titlezap": "Fale Conosco \n<span>\nO melhor suporte é com a Luky Ofertas!\n<\/span>",
+      "colorzap": "#ff7200",
+      "chatzap": "Olá, estou aqui para te ajudar!",
+      "digizap": "Digite sua mensagem...",
+      "base_text_font_size": 16,
+      "heading_font": "din_next_n5",
+      "text_font": "din_next_n4",
+      "underline_links": true,
+      "animation_image_zoom": true,
+      "search_mode": "product,article",
+      "show_vendor": true,
+      "show_secondary_image": true,
+      "product_price_position": "after_title",
+      "product_image_size": "natural",
+      "show_discount": true,
+      "discount_mode": "saving",
+      "show_color_swatch": false,
+      "show_inventory_quantity": false,
+      "low_inventory_threshold": 0,
+      "show_reviews_badge": false,
+      "cart_type": "drawer",
+      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_show_free_shipping_threshold": false,
+      "cart_free_shipping_threshold": "50",
+      "share_image": "",
+      "social_facebook": "",
+      "social_twitter": "",
+      "social_google_plus": "",
+      "social_pinterest": "",
+      "social_instagram": "",
+      "social_vimeo": "",
+      "social_tumblr": "",
+      "social_youtube": "",
+      "social_linkedin": "",
+      "social_snapchat": "",
+      "social_fancy": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#00badb",
+      "checkout_button_color": "#00badb",
+      "checkout_error_color": "#ff0000",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": 140,
+            "mobile_logo_max_width": 100,
+            "navigation_menu": "main-menu",
+            "desktop_navigation_layout": "inline",
+            "desktop_navigation_open_trigger": "hover",
+            "navigation_phone_number": "Call us 000-000-0000",
+            "navigation_email": "info@yourwebsite.com",
+            "search_menu": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1"
+          ],
+          "settings": {
+            "edge_to_edge": true,
+            "section_size": "preserve_ratio",
+            "cycle_speed": 5
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-5": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-0",
+            "collection-1",
+            "collection-2",
+            "collection-3",
+            "collection-4",
+            "collection-5"
+          ],
+          "settings": {
+            "title": "Our collections",
+            "link_title": "View all",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "featured-product": {
+          "type": "featured-product",
+          "settings": {
+            "product": "",
+            "title": "Featured product",
+            "selector_mode": "block",
+            "color_mode": "color",
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "low_inventory_threshold": 0
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_size": "small",
+            "default_view_layout": "grid",
+            "show_quick_buy": "list",
+            "show_quick_view": "list",
+            "quick_links": "",
+            "filter_type": "tag"
+          }
+        },
+        "recently-viewed-products": {
+          "type": "recently-viewed-products",
+          "settings": {
+            "title": "Recently viewed"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "low_inventory_threshold": 0,
+            "tab_page_1_handle": "",
+            "tab_page_2_handle": "",
+            "tab_page_3_handle": "",
+            "custom_security_badge": ""
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+          }
+        },
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "settings": {
+            "text_color": "#ffffff",
+            "text": "Announce something here",
+            "newsletter_button": "Subscribe & Save",
+            "newsletter_title": "Newsletter",
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984811767": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "",
+            "title": "Featured collection",
+            "products_count": 12,
+            "layout": "vertical",
+            "link_title": "View all"
+          }
+        },
+        "1542984842027": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984882560": {
+          "type": "blog-posts",
+          "settings": {
+            "blog": "news",
+            "title": "Blog posts"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "1542984811767",
+        "collection-list",
+        "1542984842027",
+        "featured-product",
+        "1542984882560"
+      ]
+    },
+    "Wood": {
+      "heading_color": "#3a2a2f",
+      "text_color": "#3a2a2f",
+      "accent_color": "#ff6128",
+      "link_color": "#ff6128",
+      "border_color": "#e7e2de",
+      "background": "#f7f4f2",
+      "secondary_background": "#ffffff",
+      "error_color": "#f71b1b",
+      "success_color": "#48b448",
+      "primary_button_background": "#ff6128",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#3a2a2f",
+      "secondary_button_text_color": "#ffffff",
+      "header_background": "#3a2a2f",
+      "header_text_color": "#ffffff",
+      "header_light_text_color": "#e9e2dd",
+      "header_accent_color": "#ff6128",
+      "product_on_sale_accent": "#ee0000",
+      "product_in_stock_color": "#008a00",
+      "product_low_stock_color": "#ee0000",
+      "product_sold_out_color": "#d1d1d4",
+      "product_label_1_background": "#ff6128",
+      "product_label_2_background": "#a95ebe",
+      "product_star_color": "#ffb647",
+      "base_text_font_size": 15,
+      "heading_font": "itc_avant_garde_gothic_n5",
+      "text_font": "basic_commercial_n4",
+      "underline_links": true,
+      "animation_image_zoom": true,
+      "search_mode": "product,article,page",
+      "show_vendor": true,
+      "show_secondary_image": true,
+      "show_discount": true,
+      "discount_mode": "percentage",
+      "product_price_position": "after_title",
+      "product_image_size": "square",
+      "show_color_swatch": false,
+      "show_inventory_quantity": true,
+      "low_inventory_threshold": 1,
+      "show_reviews_badge": false,
+      "cart_type": "drawer",
+      "cart_empty_button_link": "shopify:\/\/collections\/all",
+      "cart_show_free_shipping_threshold": true,
+      "cart_free_shipping_threshold": "50",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#f7f4f2",
+      "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+      "checkout_accent_color": "#ff6128",
+      "checkout_button_color": "#ff6128",
+      "checkout_error_color": "#f71b1b",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "logo": "",
+            "logo_max_width": 140,
+            "mobile_logo_max_width": 100,
+            "navigation_menu": "main-menu",
+            "desktop_navigation_layout": "inline",
+            "desktop_navigation_open_trigger": "hover",
+            "navigation_phone_number": "Call us 000-000-0000",
+            "navigation_email": "info@yourwebsite.com",
+            "search_menu": ""
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "text",
+              "settings": {
+                "title": "About the shop",
+                "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme settings.<\/p>"
+              }
+            },
+            "footer-1": {
+              "type": "links",
+              "settings": {
+                "menu": "footer"
+              }
+            },
+            "footer-2": {
+              "type": "newsletter",
+              "settings": {
+                "title": "Newsletter",
+                "subheading": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2"
+          ],
+          "settings": {
+            "show_social_media": true,
+            "show_payment_icons": true
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slide-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            },
+            "slide-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "mobile_image": "",
+                "text_color": "#ffffff",
+                "title": "Tell your story",
+                "content": "Tell your story",
+                "content_position": "bottomLeft",
+                "button_background": "#ffffff",
+                "button_text_color": "#000000",
+                "button_text": "Button",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "slide-0",
+            "slide-1"
+          ],
+          "settings": {
+            "edge_to_edge": true,
+            "section_size": "preserve_ratio",
+            "cycle_speed": 5
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "blocks": {
+            "collection-0": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-1": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-2": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-3": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-4": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            },
+            "collection-5": {
+              "type": "collection",
+              "settings": {
+                "collection": "",
+                "image": ""
+              }
+            }
+          },
+          "block_order": [
+            "collection-0",
+            "collection-1",
+            "collection-2",
+            "collection-3",
+            "collection-4",
+            "collection-5"
+          ],
+          "settings": {
+            "title": "Our collections",
+            "link_title": "View all",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_size": "small",
+            "default_view_layout": "grid",
+            "show_quick_buy": "list",
+            "show_quick_view": "list",
+            "quick_links": "",
+            "filter_type": "tag"
+          }
+        },
+        "recently-viewed-products": {
+          "type": "recently-viewed-products",
+          "settings": {
+            "title": "Recently viewed"
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "selector_mode": "block",
+            "color_mode": "color",
+            "zoom_effect": "outside",
+            "carousel_effect": "fade",
+            "low_inventory_threshold": 0,
+            "tab_page_1_handle": "",
+            "tab_page_2_handle": "",
+            "tab_page_3_handle": "",
+            "custom_security_badge": ""
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+          }
+        },
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "settings": {
+            "text_color": "#ffffff",
+            "text": "Announce something here",
+            "newsletter_button": "Subscribe & Save",
+            "newsletter_title": "Newsletter",
+            "newsletter_content": "<p>A short sentence describing what someone will receive by subscribing<\/p>"
+          }
+        },
+        "1542984811767": {
+          "type": "featured-collection",
+          "settings": {
+            "collection": "",
+            "title": "Featured collection",
+            "products_count": 12,
+            "layout": "vertical",
+            "link_title": "View all"
+          }
+        },
+        "1550833441117": {
+          "type": "collection-with-image",
+          "settings": {
+            "collection": "",
+            "products_count": 12,
+            "image": "",
+            "text_color": "#ffffff",
+            "title": "Our best sellers",
+            "content": "Shop our most popular products for this season.",
+            "button_background": "#e95d2b",
+            "button_text_color": "#ffffff",
+            "button_text": "Learn more",
+            "button_link": ""
+          }
+        },
+        "1555314133560": {
+          "type": "promotion-list",
+          "blocks": {
+            "1555314133560-0": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#6f42ef",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#6f42ef",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            },
+            "1555314133560-1": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#fc2a68",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#fc2a68",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            },
+            "1555314133560-2": {
+              "type": "item",
+              "settings": {
+                "image": "",
+                "show_overlay": false,
+                "stretch_image": false,
+                "background": "#26c1ce",
+                "text_color": "#ffffff",
+                "title": "Your heading",
+                "content": "Tell more about your product, collection...",
+                "button_background": "#ffffff",
+                "button_text_color": "#26c1ce",
+                "button_text": "Learn more",
+                "button_link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1555314133560-0",
+            "1555314133560-1",
+            "1555314133560-2"
+          ],
+          "settings": {
+            "expand_items": false,
+            "section_size": "medium",
+            "stack_mobile": false
+          }
+        },
+        "1542984882560": {
+          "type": "blog-posts",
+          "settings": {
+            "blog": "news",
+            "title": "Blog posts"
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "1542984811767",
+        "1555314133560",
+        "collection-list",
+        "1550833441117",
+        "1542984882560"
+      ]
+    }
+  }
+}
