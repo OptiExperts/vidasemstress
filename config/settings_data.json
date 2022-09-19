@@ -3,7 +3,7 @@
     "heading_color": "#105484",
     "text_color": "#3a2a2f",
     "accent_color": "#ec8100",
-    "link_color": "#105484",
+    "link_color": "#00d864",
     "border_color": "#cacaca",
     "background": "#f7f7f7",
     "secondary_background": "#ffffff",
@@ -21,7 +21,7 @@
     "header_accent_color": "#ec8100",
     "product_on_sale_accent": "#2679b3",
     "product_cor_do_preco": "#228b22",
-    "product_cor_do_preco_riscado": "#737b97",
+    "product_cor_do_preco_riscado": "#ff0000",
     "product_cor_dos_titles": "#0076ff",
     "product_in_stock_color": "#00d864",
     "product_low_stock_color": "#ee0000",
@@ -755,6 +755,12 @@
             "settings": {
               "collection": "moda-masculina"
             }
+          },
+          "927520a8-756a-4943-8250-3359bb0fd434": {
+            "type": "collection",
+            "settings": {
+              "collection": "sapatos-femininos"
+            }
           }
         },
         "block_order": [
@@ -767,7 +773,8 @@
           "1663002014c9c9f38b-5",
           "42ce8088-e9ee-4613-bb34-394af78f4d0d",
           "80d84133-ed0c-437c-9a38-b81eab9e1f92",
-          "a17d6a51-ba33-4332-9080-a8bb73562628"
+          "a17d6a51-ba33-4332-9080-a8bb73562628",
+          "927520a8-756a-4943-8250-3359bb0fd434"
         ],
         "settings": {
           "title": "Nossos Departamentos",
