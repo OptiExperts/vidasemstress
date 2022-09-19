@@ -383,7 +383,7 @@
               
             {%- if selected_variant.compare_at_price > selected_variant.price -%}
               <div class="product-meta__label-list">
-            <span style="margin-top: 4px; margin-bottom: 0px; font-size: 15px; " class="product-label product-label--on-sale">
+            <span style="margin-top: 4px; margin-bottom: 0px; font-size: 13px; " class="product-label product-label--on-sale">
               ECONOMIZE AGORA <b> {{ product.compare_at_price | minus: product.price | money_without_trailing_zeros }}</b>
                 </span></div>{%- endif -%}
                 
