@@ -352,7 +352,7 @@
           "corbandeiras": "#2679b3",
           "mostrar_bandeiras": true,
           "mostrar_cssryviu": false,
-          "mostrar_cssareviews": false,
+          "mostrar_cssareviews": true,
           "mostrar_addtocart": false,
           "mostrar_quantidadevendidos": true,
           "mostrar_icone": true,
