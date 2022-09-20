@@ -570,6 +570,7 @@
       },
       "1649913261818592e3": {
         "type": "promotion-list",
+        "disabled": true,
         "blocks": {
           "1649913261818592e3-0": {
             "type": "item",
