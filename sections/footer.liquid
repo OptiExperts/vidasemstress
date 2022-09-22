@@ -31,11 +31,11 @@
           <a href="{{ routes.root_url }}" class="header__logo-link">
             {%- if section.settings.logo != blank -%}
               {%- capture image_size -%}{{ section.settings.logo_max_width }}x{%- endcapture -%}
-              <img class="header__logo-image"
+              <img class="lazy2 header__logo-image"
                    style="max-width: {{ section.settings.logo_max_width }}px"
                    width="{{ section.settings.logo.width }}"
                    height="{{ section.settings.logo.height }}"
-                   src="{{ section.settings.logo | img_url: image_size, scale: 2 }}"
+                   data-src="{{ section.settings.logo | img_url: image_size, scale: 2 }}"
                    alt="{{ section.settings.logo.alt | default: shop.name | escape }}">
             {%- else -%}
               <span class="header__logo-text">{{ shop.name }}</span>
