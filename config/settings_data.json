@@ -29,10 +29,10 @@
     "product_label_1_background": "#ff6128",
     "product_label_2_background": "#228b22",
     "product_star_color": "#ffb647",
-    "ali_hunter_enable": true,
-    "botao_direito_enable": false,
-    "atalho_f12_enable": false,
-    "selecionar_conteudo_enable": false,
+    "ali_hunter_enable": false,
+    "botao_direito_enable": true,
+    "atalho_f12_enable": true,
+    "selecionar_conteudo_enable": true,
     "addzap": true,
     "numberzap": "5551995715498",
     "titlezap": "Olá, meu nome é Maiara 😊\n<span>\nEstá pronto para receber o <b>melhor atendimento?<\/b>\n<\/span>",
@@ -115,10 +115,10 @@
         ],
         "settings": {
           "enable_sticky_header": false,
-          "rastreiopage": "rastrear-pedido",
+          "rastreiopage": "pagina-de-rastreio",
           "logo": "shopify:\/\/shop_images\/Logotipo-600x300-Alta-Resolucao.png",
-          "logo_max_width": 190,
-          "mobile_logo_max_width": 125,
+          "logo_max_width": 130,
+          "mobile_logo_max_width": 110,
           "barraimg_top": false,
           "barraimg_bottom": true,
           "bgimg": "#105484",
@@ -165,7 +165,7 @@
           "57463976-9637-4218-93e5-940cab008379": {
             "type": "links",
             "settings": {
-              "menu": ""
+              "menu": "entrega"
             }
           },
           "23b7e603-1746-4ba2-b8e6-5856acdfd7a5": {
@@ -352,7 +352,7 @@
           "corbandeiras": "#2679b3",
           "mostrar_bandeiras": true,
           "mostrar_cssryviu": false,
-          "mostrar_cssareviews": false,
+          "mostrar_cssareviews": true,
           "mostrar_addtocart": false,
           "mostrar_quantidadevendidos": true,
           "mostrar_icone": true,
@@ -368,8 +368,8 @@
           "image_size": "medium",
           "enable_image_zoom": true,
           "enable_video_looping": false,
-          "zoom_effect": "inside",
-          "carousel_effect": "fade",
+          "zoom_effect": "outside",
+          "carousel_effect": "slide",
           "show_inventory_quantity": false,
           "low_inventory_threshold": 1,
           "content_display_mode": "show_all_and_expand_description",
@@ -570,6 +570,7 @@
       },
       "1649913261818592e3": {
         "type": "promotion-list",
+        "disabled": true,
         "blocks": {
           "1649913261818592e3-0": {
             "type": "item",
